@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Antonella Garay</h1>
+<h1 align="center">Antonella Garay</h1>
 <h3 align="center">Cybersecurity Learner | Junior Pentester | Offensive Security Enthusiast</h3>
 
 ---
@@ -81,4 +81,3 @@ https://tryhackme.com/p/antonellaabigahil
 
 ---
 
-⭐ *Always learning, always breaking things to understand how to secure them.*
